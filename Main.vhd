@@ -1,6 +1,6 @@
 -- <pre> LWDAQ controllable function generator(A3050) Firmware, Toplevel Unit
 
--- V1.1 [2-OCT-23] Starting point for development. Defines inputs and outputs.
+-- V1.5 [4-APR-2024] Firmware for the A305001A/B/C Function Generator.
 
 
 library ieee;  
